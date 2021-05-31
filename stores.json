@@ -1,0 +1,612 @@
+{
+    "type": "FeatureCollection",
+    "features":
+    [
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5389033,-23.4418663]},
+            "type": "Feature",
+            "properties":
+            {
+                "category": "vela",
+                "hours": "das 07:00h às 17:00h",
+                "description": "Oferecemos produtos diferenciados e exclusivos, sempre com alta qualidade e design inovador.",
+                "name": "Alchester Velas Artesanais",
+                "phone": "(15) 3226-6727",
+                "endereco": "Av. Ipanema, 13333 - Vila Bom Jesus, Sorocaba - SP, 18071-801",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4680528,-23.4352972]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Allegro Armazem",
+                "phone": "(15) 3226-6887",
+                "endereco": "Av. Itavuvu, 3060 - Jardim Santa Cecilia, Sorocaba - SP, 18078-005",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4580522,-23.4983492]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Sonho Encantado",
+                "phone": "(15) 3233-8916",
+                "endereco": "R. Mons. Joáo Soares, 103 - Centro, Sorocaba - SP, 18010-300",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4768664,-23.4777114]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Doce & Festa Docerrano",
+                "phone": "(15) 3233-8916",
+                "endereco": "Av. Itavuvu, 780 - Jardim Maria Antônia Prado, Sorocaba - SP, 18076-005",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4428555,-23.4979067]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Alegra Festas",
+                "phone": "(15) 3034-2727",
+                "endereco": "Av. São Paulo, 1015 - Além Ponte, Sorocaba - SP, 18013-003",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4189628,-23.417168]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Ponto de Bala",
+                "phone": "(15) 3225-1904",
+                "endereco": "R. José Luís Fláquer, 667 - Éden, Sorocaba - SP, 18103-060",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4869321,-23.5077313]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Dijos Doces",
+                "phone": "(15) 3226-5274",
+                "endereco": "Av. Gen. Carneiro, 1808 - Vila Sao Caetano, Sorocaba - SP, 18043-000",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.488379,-23.4506773]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 19:00h",
+                "description": "",
+                "name": "Adarm Comercial",
+                "phone": "(15) 3226-7059",
+                "endereco": "Av. Edward Fru Fru Marciano da Silva, 500 - Jardim Sao Guilherme, Sorocaba - SP, 18074-621",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4726765,-23.4436774]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 19:00h",
+                "description": "",
+                "name": "Ki Super Mercado",
+                "phone": "(15) 3226-3544",
+                "endereco": "Av. Olinda Aires Paulete, 1142 - Parque das Paineiras, Sorocaba - SP, 18078-638",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4774609,-23.4772358]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Sorocá Embalagens - Loja 1",
+                "phone": "(15) 3211-5005",
+                "endereco": "Av. Itavuvu, 857 - Jardim Maria Antônia Prado, Sorocaba - SP, 18076-005",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4458876,-23.4981614]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Sorocá Embalagens - Loja 2",
+                "phone": "(15) 3031-0191",
+                "endereco": "Av. São Paulo, 863 - Além Ponte, Sorocaba - SP, 18090-190",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4922467,-23.5172401]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Sorocá Embalagens - Loja 3",
+                "phone": "(15) 3221-5477",
+                "endereco": "Av. Dr. Armando Pannunzio, 450 - Jardim Vera Cruz, Sorocaba - SP, 18050-000",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4775337,-23.4998929]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Elda Bolos e Doces",
+                "phone": "(15) 3226-1809",
+                "endereco": "Av. Dr. Afonso Vergueiro, 2548 - Vila Augusta, Sorocaba - SP, 18040-120",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5012919,-23.5293196]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Bello Pack Embalages",
+                "phone": "(15) 3326-1572",
+                "endereco": "R. Terêncio Costa Dias, 260 - Jardim Bertanha, Sorocaba - SP, 18052-200",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4434691,-23.4922943]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "http://www.tretteldoces.com.br",
+                "name": "Trettel Doces",
+                "phone": "(15) 3227-1836",
+                "endereco": "R. Mário Thame - Além Ponte, Sorocaba - SP, 18013-320",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4376518,-23.5114691]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "http://www.dicid.com.br",
+                "name": "Dicid - Vila Hortência",
+                "phone": "(15) 3227-3222",
+                "endereco": "R. Anselmo Todesco, 102 - Vila Colorau, Sorocaba - SP, 18020-450",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.4553761,-23.4901743]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "http://www.dicid.com.br",
+                "name": "Dicid - Santa Rosália",
+                "phone": "(15) 3359-9939",
+                "endereco": "Av. Pereira da Silva, 16 - Jardim Santa Rosália, Sorocaba - SP, 18095-340",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5132957,-23.4753921]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 16:00h às 22:00h",
+                "description": "http://www.tretteldoces.com.br",
+                "name": "Adega House Beer",
+                "phone": "(15) 3359-9025",
+                "endereco": "R. Oséias José Pinto, 22 - Jardim Wanel Ville V, Sorocaba - SP, 18057-072",
+                "storeid": "18"
+            }
+        },
+        
+
+        {
+            "geometry":{"type": "Point", "coordinates": [-51.0735538,-21.6915377]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Comércio de Embalagens Adamantina",
+                "phone": "(18) 3521-3645",
+                "endereco": "Av. Cap. José Antônio de Oliveira, 131 - Centro, Adamantina - SP, 17800-000",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-51.074715,-21.6891658]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Carlos Roberto Rezende Adamantina",
+                "phone": "(18) 3522-1836",
+                "endereco": "Av. Ademar de Barros, 471 - Centro, Adamantina - SP, 17800-000",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-51.0799935,-21.6858767]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:30h às 18:30h",
+                "description": "",
+                "name": "Zenaide Mantovani Costenaro",
+                "phone": "(18) 3521-3064",
+                "endereco": "R. Nove de Julho, 725 - Centro, Adamantina - SP, 17800-000",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-48.9898533,-22.4750748]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:30h",
+                "description": "",
+                "name": "Festolândia",
+                "phone": "(14) 3261-3377",
+                "endereco": "R. Srg. Andiras, 193 - Centro, Agudos - SP, 17120-000",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5132957,-22.7502493]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://www.facebook.com/mandurifestas",
+                "name": "Manduri Festas - Americana/Sta. Bárbara",
+                "phone": "(19) 3461-2115",
+                "endereco": "R. Iacanga, 455 - Jardim Ipiranga, Americana - SP, 13468-590",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5132957,-22.7496599]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 16:00h às 22:00h",
+                "description": "https://www.ameripanfestas.com.br",
+                "name": "Ameripan Festas & Cia - Americana",
+                "phone": "(19) 3461-8520",
+                "endereco": "R. Josias Silveira Camargo, 25 - Vila Santa Catarina, Americana - SP, 13466-326",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.3277897,-22.7336045]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://estorilsol.com.br/",
+                "name": "Estoril Sol Festas e Doces",
+                "phone": "(19) 3406-2988",
+                "endereco": "Av. da Saudade, 187 - Vila Cordenonsi, Americana - SP, 13472-520",
+                "storeid": "25"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.327503,-22.7439568]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://www.manduri.com.br/",
+                "name": "Manduri Americana",
+                "phone": "(19) 3406-6999",
+                "endereco": "R. Dom Pedro II, 316 - Vila Santa Catarina, Americana - SP, 13465-040",
+                "storeid": "26"
+            }
+        },
+
+
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.5132957,-23.4753921]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:30h às 18:00h",
+                "description": "",
+                "name": "Doces & Festas",
+                "phone": "(15) 99848-6866",
+                "endereco": "R. Cornélio Viêira de Morais, 400 - Centro, Angatuba - SP, 18240-000",
+                "storeid": "27"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.6169826,-23.5056733]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Sergio Salas Gomes",
+                "phone": "(15) 3281-2734",
+                "endereco": "R. Sete de Setembro, 208 - Centro, Araçoiaba da Serra - SP, 18190-000",
+                "storeid": "28"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.1630418,-22.5640658]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Felicità Doces & Festas",
+                "phone": "(19) 3827-1632",
+                "endereco": "R. XV de Novembro, 1280 - B - Jardim Planalto, Artur Nogueira - SP, 13165-010",
+                "storeid": "29"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-48.8492421,-24.5151097]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://mercatudoembalagens.webnode.com/",
+                "name": "Mercatudo Embalagens",
+                "phone": "(15) 3552-2003",
+                "endereco": "R. Dr. Gabriel Ribeiro dos Santos, 349 - Jardim Brasilia, Apiaí - SP, 18320-000",
+                "storeid": "30"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-48.922936,-23.0990256]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "http://guiaavare.com/guia/eaembalagensemavare",
+                "name": "E.A Embalagens",
+                "phone": "(14) 3732-2308",
+                "endereco": "R. Alagoas, 1513 - Centro, Avaré - SP, 18700-010",
+                "storeid": "31"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-48.9260126,-23.1060518]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:30h às 18:00h",
+                "description": "",
+                "name": "J.C Embalagens",
+                "phone": "(14)3732-1419",
+                "endereco": "R. Acre, 1260 - Centro, Avaré - SP, 18700-260",
+                "storeid": "32"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-46.5634524,-23.1156274]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:30h",
+                "description": "http://www.festylandy.com.br/",
+                "name": "Festy Landy Atibaia",
+                "phone": "(11) 4412-1371",
+                "endereco": "R. Eng. Silvio Alvin Soares, 89 - Alvinópolis, Atibaia - SP, 12942-520",
+                "storeid": "33"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-48.9237523,-23.1009597]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Casa de Embalagens Campião",
+                "phone": "(14) 3733-1532",
+                "endereco": "R. Goiás, 1364 - Centro, Avaré - SP, 18700-140",
+                "storeid": "34"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-46.3209607,-23.3983048]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://www.maniapingodemel.com.br/",
+                "name": "Mania Pingo De Mel",
+                "phone": "(11) 4653-2693 / (11) 4651-4686",
+                "endereco": "Av. dos Expedicionários, 590 - Jardim Rincao, Arujá - SP, 07432-575",
+                "storeid": "35"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-47.3775955,-22.3647311]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:30h às 18:00h",
+                "description": "",
+                "name": "Ratimbum Festas & Embalagens",
+                "phone": "(19) 3541-6530",
+                "endereco": "Av. da Saudade, 121 - Jardim Nossa Sra. de Fatima, Araras - SP, 13607-061",
+                "storeid": "36"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-51.3843516,-20.9039605]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "AFESTA - Doces, Festas, Embalagens",
+                "phone": "(18) 3722-4433",
+                "endereco": "R. Paes Leme, 314 - Centro, Andradina - SP, 16900-010",
+                "storeid": "37"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-50.440189,-21.1933457]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Paçocão Distribuidora de Doces e Festas",
+                "phone": "(18) 3608-6458",
+                "endereco": "R. do Fico, 1084 - Santana, Araçatuba - SP, 16050-500",
+                "storeid": "38"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-50.4486053,-21.2097024]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://www.dottafesta.com.br/",
+                "name": "Dotta Festa e Embalagens",
+                "phone": "(18) 3621-4045",
+                "endereco": "R. Mal. Deodoro, 1033 - Centro, Araçatuba - SP, 16010-300",
+                "storeid": "39"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-50.4140875,-22.668104]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 09:00h às 18:00h",
+                "description": "",
+                "name": "Abelhinha Comércio Chocolates Artigos Festas",
+                "phone": "(18) 3322-5418",
+                "endereco": "R. Santa Cruz, 698 - Centro, Assis - SP, 19800-320",
+                "storeid": "40"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-50.4539718,-21.2102577]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "https://www.safradistribuidora.com.br/",
+                "name": "Safra Distribuidora de Doces Ltda",
+                "phone": "(18) 3624-9005",
+                "endereco": "R. Mal. Deodoro, 1581 - Vila Carvalho, Araçatuba - SP, 16025-285",
+                "storeid": "41"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-51.384012,-20.9011353]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 07:45h às 18:15h",
+                "description": "",
+                "name": "Arco Íris Doces & Festas",
+                "phone": "(18) 3722-5741",
+                "endereco": "R. José Augusto de Carvalho, 611 - Centro, Andradina - SP, 16900-013",
+                "storeid": "42"
+            }
+        },
+        {
+            "geometry":{"type": "Point", "coordinates": [-50.4232555,-22.6650376]},
+            "type": "Feature",
+            "properties": 
+            {
+                "category": "vela",
+                "hours": "das 08:00h às 18:00h",
+                "description": "",
+                "name": "Shopping da Festa",
+                "phone": "(18) 3322-2287 | (18) 2104-1198 | (18) 2104-1151",
+                "endereco": "Av. Armando Sales de Oliveira, 225 - Vila Xavier, Assis - SP, 19802-080",
+                "storeid": "43"
+            }
+        }
+    ]
+}
